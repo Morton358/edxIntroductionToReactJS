@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import ShopCar from './App';
 
 
 ReactDOM.render(
-  <App/>,
+  <ShopCar />,
   document.getElementById("root")
 );
