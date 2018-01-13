@@ -1,4 +1,4 @@
-#Module 2 Lab Intructions
+## Module 2 Lab Intructions
 The assignment for this module is to build a trivia application.
 
 ![alt text](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/ea73b30595280982493fae08daaa81e7/asset-v1:Microsoft+DEV281x+4T2017+type@asset+block/m2lab1.png)
